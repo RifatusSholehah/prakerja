@@ -1,5 +1,9 @@
 # shopping
 
+## figma desain
+```
+https://www.figma.com/community/file/1270004864342189909
+```
 ## deploy
 ```
 https://prakerja-deploy.vercel.app/
