@@ -1,5 +1,9 @@
 # shopping
 
+## deploy
+```
+https://prakerja-deploy.vercel.app/
+```
 ## Project setup
 ```
 npm install
